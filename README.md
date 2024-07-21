@@ -8,3 +8,4 @@ npm i zod: para validar los datos que recibe el back del front
 
 404: error de no encontrado
 204: todo estuvo bien pero no hay respuesta
+npm i cors: es una plitica de seguridad que tienen los navegadores
